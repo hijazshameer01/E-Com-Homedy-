@@ -4,12 +4,14 @@ This project includes essential e-commerce features such as user authentication,
 The website is designed to make online sofa shopping easy, convenient, and secure.
 
 # Project Information
-Project Name: Homedy
-Project Type: Sofa E-Commerce Website
-Backend: Python, Django
-Frontend: HTML, CSS, JavaScript, Bootstrap, HTMX
-Database: SQLite
-Payment Gateway: Stripe
+* Project Name: Homedy
+* Project Type: Sofa E-Commerce Website
+* Backend: Python, Django
+* Frontend: HTML, CSS, JavaScript, Bootstrap, HTMX
+* Database: SQLite
+* Payment Gateway: Stripe
+* ORM: Django ORM
+* Database File: db.sqlite3
 
 # Features
 * User Registration and Login
@@ -20,3 +22,10 @@ Payment Gateway: Stripe
 * Stripe Payment Integration
 * Order Management
 * Django Admin Dashboard
+
+#Project Goals
+* Build a fully functional sofa e-commerce website.
+* Provide a smooth and user-friendly shopping experience.
+* Implement secure online payment functionality.
+* Manage products, customers, and orders efficiently.
+* Develop practical skills in Python, Django, and web development.
