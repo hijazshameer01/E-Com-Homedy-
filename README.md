@@ -23,7 +23,7 @@ The website is designed to make online sofa shopping easy, convenient, and secur
 * Order Management
 * Django Admin Dashboard
 
-#Project Goals
+# Project Goals
 * Build a fully functional sofa e-commerce website.
 * Provide a smooth and user-friendly shopping experience.
 * Implement secure online payment functionality.
