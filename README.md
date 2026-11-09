@@ -29,3 +29,27 @@ The website is designed to make online sofa shopping easy, convenient, and secur
 * Implement secure online payment functionality.
 * Manage products, customers, and orders efficiently.
 * Develop practical skills in Python, Django, and web development.
+
+# 📸 Website Screenshots
+Here are some screenshots of the Homedy E-Commerce Website.
+
+# 🏠 Home Page
+![image alt](https://github.com/hijazshameer01/E-Com-Homedy-/blob/ca95379b69c2bb0111dae22590eb795078decdf3/Screenshot%202026-11-09%20185328.png)
+
+# 🛋️ Product Listing Page
+![image alt]()
+
+# 📦 Product Details Page
+![image alt]()
+
+# 🛒 Shopping Cart
+![image alt]()
+
+# 💳 Checkout Page
+![image alt]()
+
+# 👤 User Account
+![image alt]()
+
+# ⭐ Product Reviews
+![image alt]()
