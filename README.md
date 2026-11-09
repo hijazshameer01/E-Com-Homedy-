@@ -57,7 +57,7 @@ Here are some screenshots of the Homedy E-Commerce Website.
 # 🎉 Stripe Payment Transaction Successful
 ![image alt](https://github.com/hijazshameer01/E-Com-Homedy-/blob/ad20cbab1fcfa21857aa479ef0447a6c83aa0184/Screenshot%202026-11-09%20192035.png)
 
-✅ Payment Success Page
+# ✅ Payment Success Page
 ![image alt](https://github.com/hijazshameer01/E-Com-Homedy-/blob/ad20cbab1fcfa21857aa479ef0447a6c83aa0184/Screenshot%202026-11-09%20191923.png)
 
 # ⚙️ Django Administration Dashboard
